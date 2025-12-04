@@ -1,2 +1,2 @@
-# syn7ax.github.io
-Site Syn7ax
+# Syn7ax
+Syn7ax website
